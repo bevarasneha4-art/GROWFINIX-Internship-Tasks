@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,City,Income,Purchased
+1,Male,25,Hyderabad,35000,Yes
+2,Female,32,Bengaluru,52000,No
+3,Male,28,Chennai,41000,Yes
+4,Female,45,Pune,65000,Yes
+5,Male,22,Hyderabad,30000,No
+6,Female,38,Bengaluru,58000,Yes
+7,Male,31,Chennai,48000,No
+8,Female,27,Pune,39000,Yes
+9,Male,41,Hyderabad,61000,Yes
+10,Female,35,Bengaluru,55000,No
